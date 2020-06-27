@@ -1,0 +1,6 @@
+﻿  comparison.c
+  functions.c
+  sorted.c
+  Создание кода...
+D:\Программирование\ТП\Семестр 1.2\Практика №2\SummerPractice\SummerPractice\comparison.c(16,22): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+  SummerPractice.vcxproj -> D:\Программирование\ТП\Семестр 1.2\Практика №2\SummerPractice\Debug\SummerPractice.exe
